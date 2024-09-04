@@ -1,0 +1,23 @@
+{
+  "name": "JeyO IPA Library",
+  "identifier": "xyz.jeyo.ipalibrary",
+  "sourceURL": "https://raw.githubusercontent.com/jeyosman1/survivor/main/apps_esign.json",
+  "apps": [
+          {
+            "name": "Survivorio",
+            "type": 2,
+            "bundleID": "com.dxx.firenow",
+            "bundleIdentifier": "com.dxx.firenow",
+            "version": "3.1.5",
+            "versionDate": "2024-09-04",
+            "fullDate": "20240904152018",
+            "size": 507739854,
+            "down": "https://github.com/apptesters-org/Repo/releases/download/18-06-2024/Survivorio_2.10.0_GodMod_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/18-06-2024/Survivorio_2.10.0_GodMod_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Nothing",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.dxx.firenow.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.dxx.firenow.png"
+        }
+      ]
+}
