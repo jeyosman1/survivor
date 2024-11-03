@@ -19,5 +19,21 @@
             "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.dxx.firenow.png",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.dxx.firenow.png"
         }
+        {
+            "name": "PojavLauncher",
+            "type": 2,
+            "bundleID": "net.kdt.pojavlauncher",
+            "bundleIdentifier": "net.kdt.pojavlauncher",
+            "version": "3.0",
+            "versionDate": "2024-11-02",
+            "fullDate": "20241102152018",
+            "size": 153616384,
+            "down": "https://github.com/jeyosman1/survivor/releases/download/lit/net.kdt.pojavlauncher-3.0-ios.ipa",
+            "downloadURL": "https://github.com/jeyosman1/survivor/releases/download/lit/net.kdt.pojavlauncher-3.0-ios.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Nothing",
+            "icon": "https://pojavlauncherteam.github.io/logo.png",
+            "iconURL": "https://pojavlauncherteam.github.io/logo.png"
+        }
       ]
 }
