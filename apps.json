@@ -1,7 +1,7 @@
 {
   "name": "JeyO IPA Library",
   "identifier": "xyz.jeyo.ipalibrary",
-  "sourceURL": "https://raw.githubusercontent.com/jeyosman1/survivor/main/apps_esign.json",
+  "sourceURL": "https://raw.githubusercontent.com/jeyosman1/survivor/main/apps.json",
   "apps": [
           {
             "name": "Survivorio",
