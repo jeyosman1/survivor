@@ -18,6 +18,7 @@
             "localizedDescription": "Injected with Nothing",
             "icon": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.dxx.firenow.png",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.dxx.firenow.png"
+            ]
         },
         {
             "name": "PojavLauncher",
@@ -35,5 +36,5 @@
             "icon": "https://pojavlauncherteam.github.io/logo.png",
             "iconURL": "https://pojavlauncherteam.github.io/logo.png"
         }
-      ]
+        ]
 }
